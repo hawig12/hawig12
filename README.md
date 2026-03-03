@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hawig12
 - 👀 I’m interested in exploring new things
-- 🌱 I’m currently learning front end web development
+- 🌱 I’m currently learning civil engineering at ASTU and data engineering at Alx
 - 💞️ I’m looking to collaborate on coding staffs
 - 📫 How to reach me @hawi12122121@gmail.com
 - 😄 Pronouns: ...
